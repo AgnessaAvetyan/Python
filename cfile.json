@@ -1,0 +1,6 @@
+{
+	"report_dir": ".",
+	"file_patern": "test",
+	"file_extention": ".txt",
+	"regexp": ["Slack","Arrival", "Delay"]
+}
